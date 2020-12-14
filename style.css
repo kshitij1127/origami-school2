@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+}
+
+*{
+    border: solid;
+}
+
+.designs {
+    display:flex;
+    justify-content: space-evenly;
+    background-color:cornflowerblue;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border: solid 10px;
+}
+
+.head{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
